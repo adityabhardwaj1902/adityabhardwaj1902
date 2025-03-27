@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aditya Bhardwaj
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Node js
+
+- 👀 interested in Backend development
+- 🌱 I’m currently learning Nest js
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - Mail me @ adityabhardwaj1902@gmail.com
 
